@@ -1,2 +1,2 @@
 # personal-site
-Repo for my prersonal site
+Repo for my personal site
